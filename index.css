@@ -1,0 +1,27 @@
+.margin {
+    color: rgb(255, 255, 255);
+    background-color:  rgb(92, 150, 165);
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.text {
+    color: rgb(255, 255, 255);
+    background-color: rgb(38, 35, 53);
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.page {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+table, th, td {
+    border: 2px solid rgb(255, 255, 255);
+    border-collapse: collapse;   
+}
